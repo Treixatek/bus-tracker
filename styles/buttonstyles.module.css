@@ -1,0 +1,9 @@
+.boarded {
+    width: 100%;
+    margin: 0 2.437em 0 2.437em;
+    height: 4.687em;
+
+    background-color: #4B9EFF;
+    box-shadow: 0 .25em 1.25em rgba(58, 147, 252, 0.4);
+    border-radius: .875em;
+}
